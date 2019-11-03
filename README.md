@@ -6,9 +6,10 @@
   Video: [Part 1](https://www.youtube.com/watch?v=pxRSgjPyvqQ), [Part 2](https://www.youtube.com/watch?v=0JKdPu9S-To)
   by [ocharles](https://github.com/ocharles)
 * [Nix Language Primer](http://www.binaryphile.com/nix/2018/07/22/nix-language-primer.html)
-* [Quickly locate nix packages with specific files](https://github.com/bennofs/nix-index)
-* [Easy dependency management for Nix projects](https://github.com/nmattia/niv)
+* [Nix index - Quickly locate nix packages with specific files](https://github.com/bennofs/nix-index)
+* [Niv - Easy dependency management for Nix projects](https://github.com/nmattia/niv)
 * [Nix - A One Pager](https://github.com/tazjin/nix-1p/blob/master/README.md)
+* [Nix binary cache container](https://github.com/chrissound/nix-binary-cache-proxy) Easily maintain a binary cache outside of your root /nix/store
 
 ### Nix integration
 * [Run docker-compose with help from Nix/NixOS](https://github.com/hercules-ci/arion)
